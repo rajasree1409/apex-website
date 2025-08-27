@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poltawski+Nowy:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <section class="info-container">
+      <div class="contact-item">
+        <i class="fas fa-envelope"></i>
+        <span>gunturapex@gmail.com</span>
+      </div>
+      <div class="contact-item">
+        <i class="fas fa-phone"></i>
+        <span>93951-23789</span>
+      </div>
+    </section>
+    <nav>
+      <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/logo.jpeg" alt="Logo" />
+      <div>
+        <a href="#Home">Home</a>
+        <a href="#About">About</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#footer">Contact</a>
+      </div>
+      <img
+        <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/rk_apex_logo-removebg-preview.png" alt="Apex Logo" class="apex-logo-removed-bg"/>
+    </nav>
+
+    <div class="scroll-line">
+      <div class="scroll-text">
+        NEW BATCHES STARTING! Batch No.520:30-06-2025|Batch No.
+        521:07-07-2025|Batch No. 522: 17-07-2025 | Contact: 0863-2359785
+      </div>
+    </div>
+
+    <section id="Home" class="home">
+      <div class="home-content">
+        <div class="carousel-container">
+          <button class="nav-btn prev">&#10094;</button>
+          <div class="carousel">
+            <div class="slide active">
+              <h1>Welcome To APEX</h1>
+              <h4>“Master English & Communication Skills in 3 Months!”</h4>
+              <h4>SPOKEN ENGLISH | GRAMMAR | COMMUNICATION & MORE...</h4>
+            </div>
+            <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/slide2.jpg" alt="Slide 2" class="slide" />
+            <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/slide3.jpg" alt="Slide 3" class="slide" />
+            <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/slide4.jpg" alt="Slide 4" class="slide" />
+          </div>
+          <button class="nav-btn next">&#10095;</button>
+        </div>
+        <div class="thumpsup">
+          <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/thumsup-girl-removebg-preview.png" alt="Thumbs Up Girl"/>
+        </div>
+      </div>
+    </section>
+
+    <section class="scroll-section">
+      <div class="stable-text">
+        <h1>"THE BEST OF ITS KIND IN APEX FOR..."</h1>
+      </div>
+      <div class="scroll-background">
+        <div class="scroll-container">
+          <div class="scroll-boxes">
+            <div class="box">
+              <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/1.jpg" />
+              <h1>Spoken English</h1>
+            </div>
+            <div class="box">
+              <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/2.png" />
+              <h1>Communication Skills</h1>
+            </div>
+            <div class="box">
+              <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/3.jpg" />
+              <h1>Compitetive English</h1>
+            </div>
+            <div class="box">
+              <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/4.jpeg" />
+              <h1>Complete Grammar</h1>
+            </div>
+            <div class="box">
+              <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/5.jpeg" />
+              <h1>Group Discussion</h1>
+            </div>
+            <div class="box">
+              <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/6.jpeg" />
+              <h1>Mock Interviews</h1>
+            </div>
+            <div class="box">
+              <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/7.jpeg" />
+              <h1>Life Skills and General Conversation</h1>
+            </div>
+            <div class="box">
+              <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/8.jpeg" />
+              <h1>Personality Development Programs</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="Advantages">      
+    <h1><b>OUR UNIQUE ADVANTAGES</b></h1>
+
+    <iframe src="https://drive.google.com/file/d/1GVBm5TnZDB5KXyV6bualyFx3oekrRcAD/preview" 
+        width="700" height="400" allow="autoplay"></iframe>
+
+
+    <ul>
+      <li><h3>Job-ready communication and interview skills.</li>
+      <li><h3>Daily practice sessions for fluency and confidence.</li>
+      <li><h3>Interactive classes focused on real-life communication.</li>
+      <li><h3>Fluency in English, even from Telugu-medium background.</li>
+      <li><h3>Confidence-building activities & presentations.</li>
+      <li><h3>Customized modules for beginners to advanced learners.</li>
+      <li><h3>Trusted by thousands since 1996 with consistent learner transformation.</li>
+    </ul>
+    </section>
+
+
+    <section id="About" class="page2">
+      <div class="head-text">
+        <h1>WHY APEX?</h1>
+      </div>
+      <div class="page2-container">
+        <div class="text-con">
+          <i class="fas fa-users"></i>
+          <p class="intro-text">Boost your English. Build your confidence.</p>
+        </div>
+        <div class="text-con">
+          <i class="fas fa-book"></i>
+          <p class="intro-text">
+            Join over 500+ successful batches and become a fluent, fearless
+            speaker.
+          </p>
+        </div>
+          <div class="whyapex-img">
+            <img src="whyapex.png" />
+          </div>
+        <div class="text-con">
+          <i class="fas fa-comment-dots"></i>
+          <p class="intro-text">
+            From grammar to group discussions – we train you for real success!
+          </p>
+        </div>
+      </div>
+      <div class="page2-box-main">
+        <div class="page2-box">
+          <div class="box-inside-box">
+            <h1>500+</h1>
+            <p>Successful batches</p>
+          </div>
+          <div class="vertical-line"></div>
+          <div class="box-inside-box">
+            <h1>28+</h1>
+            <p>Years of experience</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="batch-details">
+      <div class="head-text">
+        <h1>Batch-Details</h1>
+      </div>
+      <div class="table-box">
+        <table class="batch-table">
+          <thead>
+            <tr>
+              <th>Batch No.</th>
+              <th>Commences On</th>
+              <th>Day</th>
+              <th>From</th>
+              <th>To</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>517</td>
+              <td>07-05-2025</td>
+              <td>Wed</td>
+              <td>7:00 AM</td>
+              <td>10:00 AM</td>
+            </tr>
+            <tr>
+              <td>518</td>
+              <td>22-05-2025</td>
+              <td>Thu</td>
+              <td>5:30 PM</td>
+              <td>8:30 PM</td>
+            </tr>
+            <tr>
+              <td>519</td>
+              <td>09-06-2025</td>
+              <td>Mon</td>
+              <td>10:00 AM</td>
+              <td>1:00 PM</td>
+            </tr>
+            <tr>
+              <td>520</td>
+              <td>30-06-2025</td>
+              <td>Mon</td>
+              <td>5:30 PM</td>
+              <td>8:30 PM</td>
+            </tr>
+            <tr>
+              <td>521</td>
+              <td>07-07-2025</td>
+              <td>Mon</td>
+              <td>7:00 AM</td>
+              <td>10:00 AM</td>
+            </tr>
+            <tr>
+              <td>522</td>
+              <td>17-07-2025</td>
+              <td>Thu</td>
+              <td>10:00 AM</td>
+              <td>1:00 PM</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="gallery">
+       <!--<p> Here we are providing  images of our training and experince of students</p>-->
+       <h1>During training</h1>
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250623-WA0003.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0018.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0019.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0022.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0023.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0024.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0025.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0026.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0028.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0029.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0030.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0033.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0034.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0035.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0036.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0040.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0041.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0042.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0043.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0045.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0046.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0048.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0049.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0050.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0020.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0021.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0027.jpg" height="300" width="500">
+       <!--<img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0031.jpg" height="300" width="500">-->
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0038.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0039.jpg" height="300" width="500">
+       <!--<img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0051.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0052.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0053.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0054.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0055.jpg" height="300" width="500">
+       <img src="https://raw.githubusercontent.com/rajasree1409/apex-website/refs/heads/main/apex-website/APEX%20PICS/IMG-20250610-WA0056.jpg" height="300" width="500">-->
+</section>
+
+    <section id="footer">
+  <footer>
+    <div class="top-section">
+      <div class="footer-column">
+        <h3>Our Company</h3>
+        <ul class="company-list">
+          <li><a href="#Home">Home</a></li>
+          <li><a href="#About">About</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#footer">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h3>Courses</h3>
+        <ul class="courses-list">
+          <li><a href="#">Offline classes</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column get-in-touch">
+        <h3>Get In Touch</h3>
+        <p>You can contact us through social media accounts...</p>
+        <div class="social-icons">
+           <a href="https://www.instagram.com/apexinstituteofenglish?utm_source=qr&igsh=MmJodjRmcGlhdWdo" target="_blank">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="tel:9395123789"><i class="fas fa-phone-alt"></i></a>
+        </div>
+      </div>
+    </div>
+
+    <!-- START of bottom-section -->
+    <div class="bottom-section">
+      <div class="info-block">
+        <div class="icon-wrapper">
+          <i class="fas fa-map-marker-alt"></i>
+        </div>
+        <div class="info-text">
+          <h5>Visit Our Location</h5>
+          <p>
+            Apex Institute Of English<br>
+            Khaleel Complex,<br>
+            3/1 Brodipet, Guntur,<br>
+            Andhra Pradesh
+          </p>
+        </div>
+      </div>
+
+      <div class="info-block">
+        <div class="icon-wrapper">
+          <i class="fas fa-mobile-alt"></i>
+        </div>
+        <div class="info-text">
+          <h5>Give Us a Call</h5>
+          <p>9395123789</p>
+        </div>
+      </div>
+
+      <div class="info-block">
+        <div class="icon-wrapper">
+          <i class="fas fa-envelope"></i>
+        </div>
+        <div class="info-text">
+          <h5>Send Us Message</h5>
+          <p>gunturapex@gmail.com</p>
+        </div>
+      </div>
+    </div>
+    <!-- END of bottom-section -->
+
+    <div class="copyright">
+      <p>Apex Institute of English Pvt. Ltd. © All Rights Reserved.</p>
+    </div>
+  </footer>
+</section>
+
+  </body>
+</html>
